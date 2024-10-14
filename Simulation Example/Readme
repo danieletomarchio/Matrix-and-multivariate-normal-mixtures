@@ -1,0 +1,3 @@
+In this folder there are two files that can be used to run a Simulation Study with k=2 groups:
+1) the "All parameters.RData" file contains the parameters to be used within the simulation;
+2) the "Example_Sim Study k_2.R" file that can be used to run the simulation.
