@@ -6,3 +6,6 @@ Ten common information criteria can be computed once the model is fitted to the 
 
 Please note that the following packages, already listed in the DESCRIPTION file, must be pre-installed on the user's system to install our package successfully:
 data.table, LaplacesDemon, mclust, mnormt, Rcpp, RcppArmadillo, tensor, tidyr.
+
+EDIT: Version 1.1.0. 
+A seed argument has been added to both initialization functions for reproducibility.
